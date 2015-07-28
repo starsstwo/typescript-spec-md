@@ -5,6 +5,10 @@ This appendix contains a summary of the grammar found in the main document. As d
 Specification](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf) (specifically, the ECMA-262 Standard, 5th Edition) and this appendix lists only productions
 that are new or modified from the ECMAScript grammar.
 
+この付録は、メイン文書の要約です。 セクション2.1で説明したように、TypeScriptの文法は[ECMAScript Language
+Specification](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)で定義された文法のスーパーセットです。（具体的には、ECMA-262標準、第5版）
+この付録では、新規またはECMAScriptの文法から変更されている部分のみを一覧にしています。
+
 ## A.1 Types
 
 ```text
